@@ -5,7 +5,7 @@ const newQuoteBtn = document.getElementById('new-quote')
 
 const quotes = ["Don't diet. Eat meat, seafood, eggs, yogurt, fruit & veggies. Hydrate, lift weights, walk & get sunlight. Limit refined carbs, sugar & seed oils. This is the way. ",
     "If you are a MOM or DAD, spending time on YOUR FITNESS is NOT selfish. It's self-less. You can't help others if you are sick and unhealthy. Take care of yourself so you can take care of others.",
-    "If you eat less, you'll lose WEIGHT. If you eat less & prioritize PROTEIN, you'll lose BODY FAT. If you eat less, prioritize PROTEIN, and LIFT WEIGHTS, you'll lose BODY FAT and GAIN MUSCLE.Congratz, now you have the secret. Chris Kuete",
+    "If you eat less, you'll lose WEIGHT. If you eat less & prioritize PROTEIN, you'll lose BODY FAT. If you eat less, prioritize PROTEIN, and LIFT WEIGHTS, you'll lose BODY FAT and GAIN MUSCLE.Congratz, now you have the secret.",
     "The only home you own for life is your body. Don't destroy it... If it falls apart, there's no moving out. ",
     "People are scared of eating salt, eggs, meat & butter but have no issues eating Oreos, Cheetos & Pringles. Make it make sense.",
     "Blueberries are pound for pound the best fruits you can eat. They reduce inflamation, curb sugar cravings & are full of antioxidants. If you need a snack.Blueberries are a great option.",
@@ -20,14 +20,14 @@ const quotes = ["Don't diet. Eat meat, seafood, eggs, yogurt, fruit & veggies. H
     "Getting in shape is 80% diet(eating healthy, saying no to junk food, not bingeing late at night) and 20% activity. Control what you put in your mouth. ",
     "The best thing you can do for your health is to cook your own food. You save money. You get healthier. You feel better. You look better. ",
     "Muscle is anti-aging. Muscle burns fat. Muscle allows you to eat more. Muscles make you look better. Muscle helps you live longer.",
-    "Your kids will inherit your habits. If you eat healthy, they will eat healthy. If you exercise, they will exercise. Don't tell them what to do. Show them through actions. Chris Kuete",
-    "The better you go to bed, the better you will feel. Going to sleep at 9-10pm is a cheat code for weight loss, muscle gain & more energy. Going to bed early is the new badge of honor. Chris Kuete",
-    "You have no energy to workout because you don't workout. You have to give energy to get energy. A body in motion stays in motion. Newton's law applies to humans. Chris Kuete",
-    "Alcohol depletes the body of thiamine and magnesium. Coffee depletes the body of salt, iron, taurine, thiamine & potassium. Tea depletes the body of iron and thiamine. Chris Kuete",
-     "Getting fit is cool. Staying fit while life throws careers, kids, chaos, and age at you? That's elite energy. Welcome to the 1% , Chris Kuete" , 
-    "Be Boring. Exercise at the same time. Eat at the same time. Sleep at the same time. Get up at the same time. Simple things work. Chris Kuete",
-    "Fitness looks physical on the outside. But it's mental rewiring on the inside. You think you are chasing muscle. But you are really training resilience. The mind is the first muscle that grows...Everiything else follows. Chris Kuete",
-    "How to boost your Happy Hormones? ENDORPHINS: Exercise(especially running), DOPAMINE: Listen to music, SEROTONIN: Get outside & get sunlight, OXYTOCIN: Physical affection. Chris Kuete",
+    "Your kids will inherit your habits. If you eat healthy, they will eat healthy. If you exercise, they will exercise. Don't tell them what to do. Show them through actions.",
+    "The better you go to bed, the better you will feel. Going to sleep at 9-10pm is a cheat code for weight loss, muscle gain & more energy. Going to bed early is the new badge of honor.",
+    "You have no energy to workout because you don't workout. You have to give energy to get energy. A body in motion stays in motion. Newton's law applies to humans.",
+    "Alcohol depletes the body of thiamine and magnesium. Coffee depletes the body of salt, iron, taurine, thiamine & potassium. Tea depletes the body of iron and thiamine.",
+     "Getting fit is cool. Staying fit while life throws careers, kids, chaos, and age at you? That's elite energy. Welcome to the 1%. " , 
+    "Be Boring. Exercise at the same time. Eat at the same time. Sleep at the same time. Get up at the same time. Simple things work.",
+    "Fitness looks physical on the outside. But it's mental rewiring on the inside. You think you are chasing muscle. But you are really training resilience. The mind is the first muscle that grows...Everiything else follows.",
+    "How to boost your Happy Hormones? ENDORPHINS: Exercise(especially running), DOPAMINE: Listen to music, SEROTONIN: Get outside & get sunlight, OXYTOCIN: Physical affection.",
 
 ]
  //Pick a random quote
